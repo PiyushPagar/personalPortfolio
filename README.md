@@ -2,7 +2,8 @@
 
 Welcome to my personal portfolio website built using Next.js! This portfolio showcases my skills, experiences, and projects. Feel free to explore and get in touch!
 
-![Portfolio Preview](portfolio-preview.png)
+![Portfolio Preview](public/assets/portfoliolight.png)
+![Portfolio Preview](public/assets/portfoliodark.png)
 
 ## Table of Contents
 
