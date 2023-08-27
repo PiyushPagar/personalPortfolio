@@ -27,7 +27,7 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          Java, Spring Boot, React, Node.js, Flutter and MongoDB
+          Java, Spring Boot, React, Node.js, Flutter, and MongoDB
         </span>
         . I am also familiar with TypeScript and MySQL. I am always looking to
         learn new technologies. I am currently looking for a{" "}
@@ -36,11 +36,10 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and travalling. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">ai and human psychology</span>. I'm also
+        I enjoy playing video games, watching movies, and travelling. I also
+        enjoy <span className="font-medium">learning new things</span>. I am
+        currently learning about{" "}
+        <span className="font-medium">AI and human psychology</span>. I'm also
         learning Blog writing.
       </p>
     </motion.section>
