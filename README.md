@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio website built using Next.js! This portfolio showcases my skills, experiences, and projects. Feel free to explore and get in touch!
 
-![Portfolio Preview](public/assets/portfoliolight.png)
-![Portfolio Preview](public/assets/portfoliodark.png)
+![Portfolio Preview](portfoliodark.png)
 
 ## Table of Contents
 
@@ -32,8 +31,6 @@ Delve into my background and aspirations in the About Me section. Get to know th
 ## Contact
 
 Connect with me through the Contact Us section. I've integrated an email service to make it easy for you to reach out. Feel free to use the provided form to get in touch!
-
-![Contact Form](contact-form.png)
 
 ---
 
